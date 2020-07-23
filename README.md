@@ -1,6 +1,6 @@
 # Governance
 
-## Governace Consultative Meetings
+## Governace Meetings
 
 ### 2020
 | Date | Agenda | Notes |
