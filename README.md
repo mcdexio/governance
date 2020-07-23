@@ -5,7 +5,7 @@
 ### 2020
 | Date | Agenda | Notes |
 |------|--------|-------|
-|      |        |       |
+|      | [Agenda](https://github.com/mcdexio/governance/issues/1) |       |
 
 ## Dev Plans
 
