@@ -41,24 +41,24 @@ Jean Miao - Before we officially start, please note that: Since we haven’t ena
 
 # Team Decisions
 ### Topic 1: Liquidity Mining Round SHANG
-1. **Round SHANG lasts for 2 weeks, starting from Block: 10,625,000 to Block 10,727,499, right after the current Round XIA.** 
+1. **Round SHANG lasts for 2 weeks, starting from Block: 10,625,000 to Block 10,727,499, right after the current Round XIA.** <br/>
 The 4-week period seems to be more stable and predictable, but MCDEX is still in the early stage, we value flexibility more than stability. And we hope to get feedback and move fast. If everything goes well, we can still keep the same rule for the next round. We’ve made some huge changes and will see how it goes. So as an experiment, we prefer to have it short and flexible.
 
 
-2. **2 MCB / Block, Total supply for Round SHANG: 205,000 MCB**
+2. **2 MCB / Block, Total supply for Round SHANG: 205,000 MCB** <br/>
 The MCB for user incentive is up to 5% per year, which is around 2 MCB / Block.
 2 MCB / Block already meets the up limit of it. So for now, let’s keep it to 2 for now.
 
 
-3. **Incentivize MCB liquidity providers on Uniswap, MCB/ETH pair. 0.5 MCB / Block will be rewarded to LPs on Uniswap**
+3. **Incentivize MCB liquidity providers on Uniswap, MCB/ETH pair. 0.5 MCB / Block will be rewarded to LPs on Uniswap** <br/>
 Both Uniswap and Balancer have a good side as a MCB pool. Take into account that the Uniswap already has some liquidity and the relatively popular, we will choose uniswap to incentivize in the next round. 25%, which is 0.5, of the total MCB will go to LPs on Uniswap.
 
 
-4. **No vesting for round SHANG.**
+4. **No vesting for round SHANG.** <br/>
 Since there is a huge debate on whether we should have vesting for LPs and we don’t want to have a big move, we decided to hold the vesting plan. We can see how this experiment goes and decide later.
 
 
-5. **Imbalance threshold for 100% mining efficiency will increase to 20%**
+5. **Imbalance threshold for 100% mining efficiency will increase to 20%** <br/>
 
 
 ### Topic 2: eUSD
@@ -337,7 +337,7 @@ Rune20🥂 - I think we put this a governance topic on the MCDEX forum . bring t
 
 (5) **Reduce imbalance penalty or completely remove it?**
 
-Rune20🥂 - FYI : Referencing current imbalance penalty
+Rune20🥂 - FYI : Referencing current imbalance penalty <br/>
 ![alt text](https://i.ibb.co/RhP3RB0/aaaaa.png "Imbalance Penalty")
 
 Gareth | MCDEX - 20% will allow for less need to rebalance, and currently is expensive. I like it
