@@ -5,7 +5,7 @@
 ### 2020
 | Date | Agenda | Notes |
 |------|--------|-------|
-| July 28th | [Agenda](https://github.com/mcdexio/governance/issues/1) |       |
+| July 28th | [Agenda](https://github.com/mcdexio/governance/issues/1) | [Notes](notes/governance-july-28th.md)       |
 
 ## Dev Plans
 
